@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca477ff4-5bdf-476a-86ee-96a616cf19af" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/pdfs/RequirementsDocument.pdf" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/www/image/Sponser.png" afterPath="$PROJECT_DIR$/www/image/Sponsor.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/www/theproject.html" afterPath="$PROJECT_DIR$/www/project.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/image/Mentor.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/image/Clarissa.png" afterPath="$PROJECT_DIR$/www/image/Clarissa.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/image/Mohammad.png" afterPath="$PROJECT_DIR$/www/image/Mohammad.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/aboutus.html" afterPath="$PROJECT_DIR$/www/aboutus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assignments.html" afterPath="$PROJECT_DIR$/www/assignments.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/file.css" afterPath="$PROJECT_DIR$/www/css/file.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/project.html" afterPath="$PROJECT_DIR$/www/project.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,11 +22,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="project.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="project.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/project.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            <state relative-caret-position="119">
+              <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aboutus.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/aboutus.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -58,7 +67,7 @@
       <file leaf-file-name="file.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/css/file.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1090">
+            <state relative-caret-position="1094">
               <caret line="6785" column="36" lean-forward="true" selection-start-line="6785" selection-start-column="36" selection-end-line="6785" selection-end-column="36" />
               <folding />
             </state>
@@ -79,10 +88,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/www/aboutus.html" />
         <option value="$PROJECT_DIR$/www/css/file.css" />
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/assignments.html" />
+        <option value="$PROJECT_DIR$/www/aboutus.html" />
         <option value="$PROJECT_DIR$/www/project.html" />
       </list>
     </option>
@@ -94,9 +103,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1273" />
-    <option name="width" value="1294" />
-    <option name="height" value="1407" />
+    <option name="x" value="552" />
+    <option name="y" value="100" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -301,18 +311,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1492723690008</updated>
-      <workItem from="1492723691144" duration="3546000" />
+      <workItem from="1492723691144" duration="4195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3546000" />
+    <option name="totallyTimeSpent" value="4195000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
+    <frame x="552" y="100" width="2576" height="1416" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2563694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12687156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -354,25 +364,33 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/aboutus.html">
+    <entry file="file://$PROJECT_DIR$/www/image/homepage.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/project.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        <state relative-caret-position="119">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/css/file.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1090">
+        <state relative-caret-position="1094">
           <caret line="6785" column="36" lean-forward="true" selection-start-line="6785" selection-start-column="36" selection-end-line="6785" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/image/homepage.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/www/assignments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="43" column="68" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
@@ -385,18 +403,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/assignments.html">
+    <entry file="file://$PROJECT_DIR$/www/aboutus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="43" column="68" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/project.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        <state relative-caret-position="476">
+          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
           <folding />
         </state>
       </provider>
