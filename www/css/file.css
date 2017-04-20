@@ -1600,7 +1600,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .container {
-    width: 1170px;
+    width: 970px;
   }
 }
 .container-fluid {
@@ -3442,7 +3442,7 @@ tbody.collapse.in {
   margin: 2px 0 0;
   list-style: none;
   font-size: 14px;
-  text-align: left;
+  text-align: center;
   background-color: #ffffff;
   border: 1px solid #cccccc;
   border: 1px solid rgba(0, 0, 0, 0.15);
@@ -3562,7 +3562,7 @@ tbody.collapse.in {
 .btn-group > .btn,
 .btn-group-vertical > .btn {
   position: relative;
-  float: left;
+  float: center;
 }
 .btn-group > .btn:hover,
 .btn-group-vertical > .btn:hover,
